@@ -13,24 +13,54 @@
     ],
     "sites": [
         {
-            "key": "球类",
-            "name": "⚽️球类┃合集",
+            "key": "农民影视",
+            "name": "💡农民┃影视",
             "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "./lib/球类合集.json"
+            "api": "csp_WexNmys",
+            "searchable": 1,
+            "changeable": 1
         },
         {
-            "key": "球星",
-            "name": "⚽️球星┃合集",
+            "key": "腐剧视频",
+            "name": "💡剧剧┃影视",
             "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "./lib/球星合集.json"
+            "api": "csp_WexFujutv",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "两个磁力",
+            "name": "💡两个┃影视",
+            "type": 3,
+            "api": "csp_Wexbttwo",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "骚火影视",
+            "name": "💡骚火┃影视",
+            "type": 3,
+            "api": "csp_Wexsaohuo",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "南瓜影视",
+            "name": "💡南瓜┃影视",
+            "type": 3,
+            "api": "csp_WexNgys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "天天影视",
+            "name": "💡天天┃影视",
+            "type": 3,
+            "api": "csp_AppTT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         }
     ],
     "parses": [
