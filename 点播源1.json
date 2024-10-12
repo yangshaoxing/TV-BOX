@@ -1,10 +1,28 @@
 {
-    "wallpaper": "https://xn--tkh-mf3g9f.v.nxog.top/m/t/",
-    "logo": "http://vip.wosvip.com/yl/gg/LOGO2.gif",
+    "wallpaper": "",
+    "logo": "",
     "spider": "./ou.jar",
     "warningText": "杨少侠",
     "lives": [],
     "sites": [
+        {
+            "key": "低端影视",
+            "name": "💡低端┃影视",
+            "type": 3,
+            "api": "csp_Ddys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "苹果影视",
+            "name": "💡苹果┃影视",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "农民影视",
             "name": "💡农民┃影视",
