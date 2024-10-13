@@ -10,12 +10,134 @@
     "spider": "./ou.jar",
     "sites": [
         {
+            "key": "荐片",
+            "name": "💡荐片┃影视",
+            "type": 3,
+            "api": "csp_JianPian",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://api2.rinhome.com"
+        },
+        {
             "key": "农民影视",
             "name": "💡农民┃影视",
             "type": 3,
             "api": "csp_WexNmys",
             "searchable": 1,
             "changeable": 1
+        },
+        {
+            "key": "骚火影视",
+            "name": "💡骚火┃影视",
+            "type": 3,
+            "api": "csp_Wexsaohuo",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "天天影视",
+            "name": "💡天天┃影视",
+            "type": 3,
+            "api": "csp_AppTT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "快看影视",
+            "name": "💡快看┃影视",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "明日影视",
+            "name": "💡明日┃影视",
+            "type": 3,
+            "api": "csp_WexMingriys",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "可可影视",
+            "name": "💡可可┃影视",
+            "type": 3,
+            "api": "csp_Keke",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "圣城影视",
+            "name": "💡圣城┃影视",
+            "type": 3,
+            "api": "csp_SC1080",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "机器人",
+            "name": "💡机器┃影视",
+            "type": 3,
+            "api": "csp_Ikanbot",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://v.aikanbot.com"
+        },
+        {
+            "key": "大米星球",
+            "name": "💡大米┃影视",
+            "type": 3,
+            "api": "csp_AppDaMi",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "热播影视",
+            "name": "💡热播┃影视",
+            "type": 3,
+            "api": "csp_AppRB",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_SP33",
+            "name": "💡360┃影视",
+            "type": 3,
+            "api": "csp_SP360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "追剧影视",
+            "name": "💡追剧┃影视",
+            "type": 3,
+            "api": "csp_AppZJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://z.kzjtv.com/"
+        },
+        {
+            "key": "六六六",
+            "name": "💡六六┃影视",
+            "playerType": 1,
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://122.228.85.203:1000/api.php/app/"
         }
     ]
 }
