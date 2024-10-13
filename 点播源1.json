@@ -16,15 +16,6 @@
             "api": "csp_WexNmys",
             "searchable": 1,
             "changeable": 1
-        },
-        {
-            "key": "快看影视",
-            "name": "💡快看┃影视",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         }
     ]
 }
