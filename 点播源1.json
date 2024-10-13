@@ -1,1 +1,30 @@
-{"lives": [{"name": "live", "type": 0, "url": "http://vip.wosvip.com/tv/yujingming.txt", "epg": "http://epg.112114.xyz/?ch={name}&date={date}"}], "spider": "./ou.jar", "sites": [{"key": "\u519c\u6c11\u5f71\u89c6", "name": "\ud83d\udca1\u519c\u6c11\u2503\u5f71\u89c6", "type": 3, "api": "csp_WexNmys", "searchable": 1, "changeable": 1}, {"key": "\u5feb\u770b\u5f71\u89c6", "name": "\ud83d\udca1\u5feb\u770b\u2503\u5f71\u89c6", "type": 3, "api": "csp_Kuaikan", "searchable": 1, "quickSearch": 1, "filterable": 1}]}
+{
+    "lives": [
+        {
+            "name": "live",
+            "type": 0,
+            "url": "http://vip.wosvip.com/tv/yujingming.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        }
+    ],
+    "spider": "./ou.jar",
+    "sites": [
+        {
+            "key": "农民影视",
+            "name": "💡农民┃影视",
+            "type": 3,
+            "api": "csp_WexNmys",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "快看影视",
+            "name": "💡快看┃影视",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }
+    ]
+}
