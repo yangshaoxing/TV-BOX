@@ -7,17 +7,15 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
     ],
+    "spider": "./ou.jar",
     "sites": [
         {
-            "key": "Bili_youer",
-            "name": "👼幼儿┃教育",
+            "key": "农民影视",
+            "name": "💡农民┃影视",
             "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/Bili.jar;md5;9aa3056172a51253a05157850fc5920b",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/ext/youer.json"
+            "api": "csp_WexNmys",
+            "searchable": 1,
+            "changeable": 1
         }
     ]
 }
