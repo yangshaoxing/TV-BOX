@@ -7,7 +7,6 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
     ],
-    "spider": "./ou.jar",
     "sites": [
         {
             "key": "Bili_youer",
